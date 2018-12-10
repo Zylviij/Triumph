@@ -1,0 +1,6 @@
+C:\Users\Zylviij\Documents\TriumphServer\obj\Debug\TriumphServer.csprojAssemblyReference.cache
+C:\Users\Zylviij\Documents\TriumphServer\obj\Debug\TriumphServer.csproj.CoreCompileInputs.cache
+C:\Users\Zylviij\Documents\TriumphServer\bin\Debug\TriumphServer.exe
+C:\Users\Zylviij\Documents\TriumphServer\bin\Debug\TriumphServer.pdb
+C:\Users\Zylviij\Documents\TriumphServer\obj\Debug\TriumphServer.exe
+C:\Users\Zylviij\Documents\TriumphServer\obj\Debug\TriumphServer.pdb
